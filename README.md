@@ -10,8 +10,11 @@
 <h2>My Awards⭐🏆</h2>
 
 2nd Place NASA Space Apps Hackathon🥈 - Victoria, BC
+
 1st Place AqTartip🏆 - Almaty, KZ
+
 2nd Place STEM Alash Hackathon 🥈 - Almaty, KZ
+
 
 <hr>
 
