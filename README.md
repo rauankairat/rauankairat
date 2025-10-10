@@ -1,6 +1,12 @@
 <h1 align="center">Welcome to Rauan's Page👋</h1>
 
-🎓Student of @University of Victoria '28 - 🖥️Software Engineer <hr> - 🔭 I’m currently working on TALAA Farming App
+🎓Student of @University of Victoria '28 - 🖥️Software Engineer
+<hr>
+- 🔭 I’m currently working on TALAA Farming App
+<hr>
+My Awards⭐🏆
+
+2nd Place NASA Hackathon🥈 
 
 
 ###
