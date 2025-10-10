@@ -1,13 +1,16 @@
 <h1 align="center">Welcome to Rauan's Page👋</h1>
 
 🎓Student of @University of Victoria '28 - 🖥️Software Engineer
+👨‍💻Full Stack Developer at ImmunoLab.com.kz 🧪
 <hr>
 - 🔭 I’m currently working on TALAA Farming App
 <hr>
 
 <h2>My Awards⭐🏆</h2>
 
-2nd Place NASA Hackathon🥈 
+2nd Place NASA Space Apps Hackathon🥈 - Victoria, BC
+1st Place AqTartip🏆 - Almaty, KZ
+2nd Place STEM Alash Hackathon 🥈 - Almaty, KZ
 
 <hr>
 
