@@ -16,10 +16,6 @@
 2nd Place STEM Alash Hackathon 🥈 - Almaty, KZ
 
 
-<hr>
-<hr>
-<hr>
-
 
 ###
 <h2 align="center">My Knowledge </h2>
