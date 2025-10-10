@@ -4,9 +4,11 @@
 <hr>
 - 🔭 I’m currently working on TALAA Farming App
 <hr>
-My Awards⭐🏆
+<h2>My Awards⭐🏆<h2/>
 
 2nd Place NASA Hackathon🥈 
+
+<hr>
 
 
 ###
