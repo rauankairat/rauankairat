@@ -9,7 +9,9 @@
 
 <h2>My Awards⭐🏆</h2>
 
-2nd Place NASA Space Apps Hackathon🥈 - Victoria, BC
+Silver Medlaist ICPC Programming comeptition 🥈- Victoria, Bc
+
+2nd Place NASA Space Apps Hackathon🥈(Global NASA Finalist) - Victoria, BC 
 
 1st Place AqTartip🏆 - Almaty, KZ
 
