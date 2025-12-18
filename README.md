@@ -17,7 +17,7 @@ Silver Medlaist ICPC Programming comeptition 🥈- Victoria, Bc
 
 2nd Place STEM Alash Hackathon 🥈 - Almaty, KZ
 
-Global Finalist - First Global Challange 2023 ⭐
+Global Finalist - First Global Challange 2023 ⭐ -  Singapore
 
 
 
