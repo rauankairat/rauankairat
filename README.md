@@ -9,21 +9,25 @@
 
 <h2>My Awards⭐🏆</h2>
 
-Silver Medlaist ICPC Programming comeptition 🥈- Victoria, Bc
+2025 - Silver Medlaist🥈 - ICPC Programming comeptition - Victoria, Bc 
 
-2nd Place NASA Space Apps Hackathon🥈(Global NASA Finalist) - Victoria, BC 
+2025 - 3rd place🥉 - University of Victoria Engineering Competition (UVEC)
 
-1st Place AqTartip🏆 - Almaty, KZ
+2025 - 2nd Place🥈 - NASA Space Apps Hackathon(Global NASA Finalist) - Victoria, BC 
 
-2nd Place STEM Alash Hackathon 🥈 - Almaty, KZ
+2024 - 1st Place AqTartip🥇 - Almaty, KZ
 
-Global Finalist - First Global Challange 2023 ⭐ -  Singapore
+2023 - 2nd Place STEM Alash Hackathon🥈 - Almaty, KZ
+
+2023 - Global Finalist - First Global Challange 2023🎖️ -  Singapore
 
 
 
 ###
 <h2 align="center">My Knowledge </h2>
 
+Languages and Frameworks: Python PyQt6, SQL, C, Java, JavaScript, React.js, Three.js, React Native, HTML / CSS
+Tools & Environments: Git, Visual Studio Code, mySQL, Figma, Canva 
 
 
   
