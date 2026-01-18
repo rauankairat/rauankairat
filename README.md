@@ -26,7 +26,7 @@
 ###
 <h2 align="center">My Knowledge </h2>
 
-Languages and Frameworks: Python PyQt6, SQL, C, Java, JavaScript, React.js, Three.js, React Native, HTML / CSS
+Languages and Frameworks: Python PyQt6, SQL, C, Java, JavaScript, React.js, Three.js, Next.js, React Native, HTML / CSS
 Tools & Environments: Git, Visual Studio Code, mySQL, Figma, Canva 
 
 
