@@ -27,7 +27,9 @@
 <h2 align="center">Technical Skills </h2>
 
 Languages: Python, Java, JavaScript, C, SQL, Lua, HTML / CSS
+
 Frameworks: React.js, Next.js, React Native, Three.js, PyQt6
+
 Developer Tools: Git, IntelliJ IDEA, Visual Studio Code, MySQL, Roblox Studio, Figma, Canva
 
 
