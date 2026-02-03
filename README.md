@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to Rauan's Page👋</h1>
+<h1 align="center">📌 What I Do </h1>
 
 🎓Student of @University of Victoria '28 - 🖥️Software Engineer
 
 👨‍💻Full Stack Developer at ImmunoLab.com.kz 🧪
-<hr>
-- 🔭 I’m currently working on TALAA Farming App
+
+🫆 Portfolio - http://rauankairat.github.io
 <hr>
 
 <h2>My Awards⭐🏆</h2>
