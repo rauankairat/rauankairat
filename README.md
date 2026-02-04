@@ -2,7 +2,7 @@
 
 🎓Student of @University of Victoria '28 - 🖥️Software Engineer
 
-👨‍💻Full Stack Developer at allergoexpressmed.com 🧪
+👨‍💻Full Stack Developer at https://allergoexpressmed.com 🧪
 
 🫆 Portfolio - http://rauankairat.github.io
 <hr>
