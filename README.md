@@ -9,7 +9,7 @@
 
 <h2>My Awards⭐🏆</h2>
 
-2025 - Silver Medlaist🥈 - ICPC Programming comeptition - Victoria, Bc 
+2025 - Silver Medlaist🥈 - ICPC Programming comeptition - British Columbia
 
 2025 - 3rd place🥉 - University of Victoria Engineering Competition (UVEC)
 
