@@ -9,17 +9,17 @@
 
 <h2>My Awards⭐🏆</h2>
 
-2025 - Silver Medlaist🥈 - ICPC Programming comeptition - British Columbia
+2025 - 2nd place🥈            - ICPC Programming comeptition - British Columbia
 
-2025 - 3rd place🥉 - University of Victoria Engineering Competition (UVEC)
+2025 - 3rd place🥉            - University of Victoria Engineering Competition (UVEC)
 
-2025 - 2nd Place🥈 - NASA Space Apps Hackathon(Global NASA Finalist) - Victoria, BC 
+2025 - 2nd Place🥈            - NASA Space Apps Hackathon(Global NASA Finalist) - Victoria, BC 
 
-2024 - 1st Place AqTartip🥇 - Almaty, KZ
+2024 - 1st Place🥇            - AqTartip - Almaty, KZ
 
-2023 - 2nd Place STEM Alash Hackathon🥈 - Almaty, KZ
+2023 - 2nd Place🥈             - STEM Alash Hackathon🥈 - Almaty, KZ
 
-2023 - Global Finalist - First Global Challange 2023🎖️ -  Singapore
+2023 - Global Finalist🎖️       - First Global Challange 2023 -  Singapore
 
 
 
