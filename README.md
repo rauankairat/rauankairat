@@ -17,7 +17,7 @@
 
 2024 - 1st Place🥇            - AqTartip - Almaty, KZ
 
-2023 - 2nd Place🥈             - STEM Alash Hackathon🥈 - Almaty, KZ
+2023 - 2nd Place🥈             - STEM Alash Hackathon - Almaty, KZ
 
 2023 - Global Finalist🎖️       - First Global Challange 2023 -  Singapore
 
